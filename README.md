@@ -62,5 +62,9 @@ Gas quality control;
 9) Percentage of time when gas is supplied within the norm according to the indicators for the year / month
 10) The level of deviation from the norm and time frames for each incident
 
+### Examples
+You can find examples of input data from the sensor under this folder: </br>
+`src/main/resources/Input data examples`
+
 
 
