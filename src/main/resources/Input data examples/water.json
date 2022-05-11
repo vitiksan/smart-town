@@ -1,0 +1,72 @@
+{
+  "sensor_id" : "",
+  "sensor_type" : "",
+  "sensor_name" : "",
+  "date_installed" : "",
+  "manufacture_date" : "",
+  "manufacturer_company" : "",
+  "manufacturer_country" : "",
+  "company_address" : "",
+  "quality_indicators": [
+    {
+      "name": "dry_residue",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "general_stiffness",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "general_alkalinity",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "hydrogen_ph",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "hydrocarbons",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "sulfates",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "fluorides",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "potassium",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "calcium",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "sodium",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "magnesium",
+      "value": "",
+      "measurement_unit": ""
+    },
+    {
+      "name": "silicon",
+      "value": "",
+      "measurement_unit": ""
+    }
+  ]
+}

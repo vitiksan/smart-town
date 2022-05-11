@@ -1,0 +1,44 @@
+{
+  "meterId": "I5G68-IM75",
+  "meterName": "MTX 1A10.DF.2L0-YD4",
+  "features": {
+    "description": {
+      "clientType": "ROUT-87",
+      "isRelayPresent": "No",
+      "ImpactSensor": "Magnite",
+      "DataCollectionTechnology": "RS-485",
+      "AccessType": "Direct Current"
+    },
+    "tecnicalFeatures": {
+      "phaseNumber": 2,
+      "power": "23000W",
+      "powerMeasure" : "W",
+      "accuracyClass": 1,
+      "voltage": "230V",
+      "voltageMeasure" : "V",
+      "electricСurrent": 5,
+      "electricityMeasureClass": [
+        "|A|",
+        "+A",
+        "-A"
+      ]
+    }
+  },
+  "powerUsage": [{
+    "phase": "YI6-TR",
+    "currentValue": 6776935,
+    "datatimestamp": "2022/02/02 12:45:12:125"
+  }, {
+    "phase": "JR8-MU",
+    "currentValue": 73005,
+    "datatimestamp": "2022/02/02 12:45:12:125"
+  }
+  ],
+  "volatageData": {
+    "voltageStamp": 224,
+    "voltageTimestamp": "2022/02/02 12:45:12:125"
+  },
+
+  "timestamp": "2022/02/02 12:45:12:125",
+  "signal": "Good"
+}
