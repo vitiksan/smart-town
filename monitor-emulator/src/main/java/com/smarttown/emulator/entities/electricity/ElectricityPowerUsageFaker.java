@@ -1,4 +1,4 @@
-package com.smarttown.aggregator.entities.electricity;
+package com.smarttown.emulator.entities.electricity;
 
 
 import com.github.javafaker.Faker;

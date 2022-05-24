@@ -1,6 +1,6 @@
-package com.smarttown.aggregator.controllers.electricity;
+package com.smarttown.emulator.controllers.electricity;
 
-import com.smarttown.aggregator.entities.electricity.ElectricityMeterFaker;
+import com.smarttown.emulator.entities.electricity.ElectricityMeterFaker;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

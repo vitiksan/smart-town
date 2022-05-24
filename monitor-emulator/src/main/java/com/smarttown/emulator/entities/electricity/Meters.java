@@ -1,4 +1,4 @@
-package com.smarttown.aggregator.entities.electricity;
+package com.smarttown.emulator.entities.electricity;
 
 public enum Meters {
     SP_14("DeloR-24"),

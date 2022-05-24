@@ -1,11 +1,11 @@
-package com.smarttown.aggregator;
+package com.smarttown.emulator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootDataAggregatorApplication {
+public class SpringBootMonitorEmulatorApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootDataAggregatorApplication.class, args);
+        SpringApplication.run(SpringBootMonitorEmulatorApplication.class, args);
     }
 }
