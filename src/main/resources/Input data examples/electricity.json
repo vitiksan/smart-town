@@ -5,16 +5,16 @@
     "description": {
       "clientType": "ROUT-87",
       "isRelayPresent": "No",
-      "ImpactSensor": "Magnite",
-      "DataCollectionTechnology": "RS-485",
-      "AccessType": "Direct Current"
+      "impactSensor": "Magnite",
+      "dataCollectionTechnology": "RS-485",
+      "accessType": "Direct Current"
     },
-    "tecnicalFeatures": {
+    "technicalFeatures": {
       "phaseNumber": 2,
-      "power": "23000W",
+      "power": "23000",
       "powerMeasure" : "W",
       "accuracyClass": 1,
-      "voltage": "230V",
+      "voltage": "230",
       "voltageMeasure" : "V",
       "electricСurrent": 5,
       "electricityMeasureClass": [
@@ -25,16 +25,16 @@
     }
   },
   "powerUsage": [{
-    "phase": "YI6-TR",
+    "phaseId": "YI6-TR",
     "currentValue": 6776935,
-    "datatimestamp": "2022/02/02 12:45:12:125"
+    "dataTimestamp": "2022/02/02 12:45:12:125"
   }, {
-    "phase": "JR8-MU",
+    "phaseId": "JR8-MU",
     "currentValue": 73005,
-    "datatimestamp": "2022/02/02 12:45:12:125"
+    "dataTimestamp": "2022/02/02 12:45:12:125"
   }
   ],
-  "volatageData": {
+  "voltageData": {
     "voltageStamp": 224,
     "voltageTimestamp": "2022/02/02 12:45:12:125"
   },
